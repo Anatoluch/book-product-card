@@ -1,6 +1,6 @@
 # Карточка товара
 
-[![Скриншот проекта](img/project-product-card-1.jpg)](https://product-card-by-valerian.netlify.app/)
+[![Скриншот проекта](img/project-product-card-2.jpg)](https://product-card-by-valerian.netlify.app/)
 
 ## О проекте:
 
