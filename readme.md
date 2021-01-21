@@ -1,6 +1,6 @@
 # Карточка товара
 
-[![Скриншот проекта](img/project-product-card-2.jpg)](https://product-card-by-valerian.netlify.app/)
+[![Скриншот проекта](img/project-product-card-2.jpg)](https://book-card-by-valerian.netlify.app/)
 
 ## О проекте:
 
@@ -8,8 +8,8 @@
 
 * Срок выполнения: 1 день
 * Количество страниц: 1
-* Демо онлайн: [product-card-by-valerian.netlify.app](https://product-card-by-valerian.netlify.app/)
-* Код на Github: [github.com/Anatoluch/portfolio-project](https://github.com/Anatoluch/portfolio-project)
+* Демо онлайн: [book-card-by-valerian.netlify.app](https://book-card-by-valerian.netlify.app/)
+* Код на Github: [github.com/Anatoluch/book-product-card](https://github.com/Anatoluch/book-product-card)
 
 ## Технологии:
 
